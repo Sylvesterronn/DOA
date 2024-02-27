@@ -24,6 +24,7 @@
     <ProjectGuid>{d1888415-2dbb-4bcf-a06a-5f38ca21a793}</ProjectGuid>
     <RootNamespace>StackAlgo</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Exercise(1)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

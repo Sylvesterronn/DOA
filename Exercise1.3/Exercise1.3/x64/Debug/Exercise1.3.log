@@ -1,4 +1,5 @@
-﻿  Exercise1.3.cpp
-C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\DOA\Exercise1.3\Exercise1.3\Exercise1.3.h(42,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\DOA\Exercise1.3\Exercise1.3\Exercise1.3.h(43,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Exercise1.3.vcxproj -> C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\DOA\Exercise1.3\x64\Debug\Exercise1.3.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Exercise1.3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Exercise1.3.cpp
+C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\DOA\Exercise1.3\Exercise1.3\Exercise1.3.h(36,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\DOA\Exercise1.3\Exercise1.3\Exercise1.3.h(37,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Exercise1.3.vcxproj -> C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\DOA\Exercise1.3\x64\Debug\Exercise(3).exe

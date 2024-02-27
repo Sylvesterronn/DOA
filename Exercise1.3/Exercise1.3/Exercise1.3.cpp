@@ -12,8 +12,6 @@ int main()
 	printMatrix(sortedMatrix);
 
 
-	std::cout << "Value 2 2:" << sortedMatrix[2][2];
-
 	int x = 10;
 	bool find=SearchValue(sortedMatrix, x);
 	

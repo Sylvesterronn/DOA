@@ -3,8 +3,6 @@
 
 int main()
 {
-
-
 	Queue<int>*queuetest = new Queue<int>();
 
 	queuetest->Queuepush(2);
@@ -16,10 +14,7 @@ int main()
 		std::cout << "Next element:  " << queuetest->get() << std::endl;
 	}
 
-
 	delete queuetest;
-
-
 
 	return 0;
 }
