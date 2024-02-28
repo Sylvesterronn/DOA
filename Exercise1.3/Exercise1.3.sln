@@ -7,7 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise(3)", "Exercise1.3\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise(1)", "..\Stack_Algo\Stack_Algo\Stack_Algo.vcxproj", "{D1888415-2DBB-4BCF-A06A-5F38CA21A793}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise4", "..\Exercise4\Exercise4\Exercise4.vcxproj", "{6E393097-2D6C-44F7-A61E-0554B4F68754}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise(4)", "..\Exercise4\Exercise4\Exercise4.vcxproj", "{6E393097-2D6C-44F7-A61E-0554B4F68754}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
