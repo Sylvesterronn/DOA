@@ -1,0 +1,3 @@
+﻿  Exercise5.cpp
+C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\DOA\DOA_handin3\Handin3\Exercise5\Exercise5.cpp(68,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Exercise5.vcxproj -> C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\DOA\DOA_handin3\Handin3\x64\Debug\Exercise5.exe
