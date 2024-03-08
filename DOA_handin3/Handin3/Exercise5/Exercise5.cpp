@@ -67,21 +67,21 @@ int main() {
 	for (int theSeed = 0; theSeed < 10; ++theSeed) {
 		srand(time(0) + theSeed);
 
-		//permute(a);
-		//insertionSort(a);
-		//checkSort(a);
+		permute(a);
+		insertionSort(a);
+		checkSort(a);
 
-		//permute(a);
-		//insertionSort(begin(a), end(a));
-		//checkSort(a);
+		permute(a);
+		insertionSort(begin(a), end(a));
+		checkSort(a);
 
-		//permute(a);
-		//mergeSort(a);
-		//checkSort(a);
+		permute(a);
+		mergeSort(a);
+		checkSort(a);
 
-		//permute(a);
-		//quickSort(a);
-		//checkSort(a);
+		permute(a);
+		quickSort(a);
+		checkSort(a);
 		
 		permute(a);
 		selectionSort(a);

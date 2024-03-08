@@ -1,0 +1,4 @@
+﻿  Exercise7.cpp
+C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\DOA\DOA_handin3\Handin3\Exercise7\quick_sort.h(99,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\DOA\DOA_handin3\Handin3\Exercise7\Exercise7.cpp(21,13): message : see reference to function template instantiation 'void quickSort<int>(std::vector<int,std::allocator<int>> &)' being compiled
+  Exercise7.vcxproj -> C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\DOA\DOA_handin3\Handin3\x64\Debug\Exercise7.exe
