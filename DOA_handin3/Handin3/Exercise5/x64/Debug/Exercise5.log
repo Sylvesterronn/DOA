@@ -1,0 +1,7 @@
+﻿  Exercise5.cpp
+C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\DOA\DOA_handin3\Handin3\Exercise5\Exercise5.cpp(68,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\Week6Code\merge_sort.h(64,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\DOA\DOA_handin3\Handin3\Exercise5\Exercise5.cpp(79,14): message : see reference to function template instantiation 'void mergeSort<int>(std::vector<int,std::allocator<int>> &)' being compiled
+C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\Week6Code\quick_sort.h(62,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\DOA\DOA_handin3\Handin3\Exercise5\Exercise5.cpp(83,14): message : see reference to function template instantiation 'void quickSort<int>(std::vector<int,std::allocator<int>> &)' being compiled
+  Exercise5.vcxproj -> C:\Users\Sylvester\OneDrive - Aarhus universitet\AU\3.semester\SW3-Algoritmer og datastruktur\DOA\DOA_handin3\Handin3\x64\Debug\Exercise5.exe
