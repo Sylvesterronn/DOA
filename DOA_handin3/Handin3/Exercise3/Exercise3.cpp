@@ -23,6 +23,6 @@ void bookletPrint(int startPage, int endPage) {
 
 int main() {
     // Example call to bookletPrint function.
-    bookletPrint(1, 12); // Prints the booklet page arrangement for pages 1 through 8.
+    bookletPrint(1, 16); // Prints the booklet page arrangement for pages 1 through 8.
     return 0;
 }
