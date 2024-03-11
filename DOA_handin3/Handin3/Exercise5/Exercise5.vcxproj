@@ -129,6 +129,12 @@
   <ItemGroup>
     <ClCompile Include="Exercise5.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="insertion_sort.h" />
+    <ClInclude Include="merge_sort.h" />
+    <ClInclude Include="quick_sort.h" />
+    <ClInclude Include="sort.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

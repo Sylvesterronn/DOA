@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "../../../../Week6Code/sort.h"
+#include "sort.h"
 #include <time.h>
 
 using namespace std;

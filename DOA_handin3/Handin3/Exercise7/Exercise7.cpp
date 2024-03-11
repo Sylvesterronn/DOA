@@ -57,12 +57,4 @@ int main()
 	// Include stlsort.cpp
 	cout << "Using std::sort:" << endl;
 	system("g++ stlsort.cpp -o stlsort -std=c++11 && ./stlsort");
-	double time4 = measureTime(std::sort<std::vector<int>::iterator>, smallInput.begin(), smallInput.end());
-	double time5 = measureTime(std::sort<std::vector<int>::iterator>, mediumInput.begin(), mediumInput.end());
-	double time6 = measureTime(std::sort<std::vector<int>::iterator>, largeInput.begin(), largeInput.end());
-
-	std::cout << "Time taken for STL sort with small input: " << time4 << " seconds\n";
-	std::cout << "Time taken for STL sort with medium input: " << time5 << " seconds\n";
-	std::cout << "Time taken for STL sort with large input: " << time6 << " seconds\n";
-
 }

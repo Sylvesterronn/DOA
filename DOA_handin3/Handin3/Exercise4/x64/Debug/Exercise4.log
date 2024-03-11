@@ -1,9 +1,2 @@
 ﻿  Exercise4.cpp
-C:\Users\nikol\OneDrive - Aarhus universitet\3. Semester\Algo og Data\DOA\DOA_handin3\Handin3\Exercise4\Exercise4.cpp(137,5): error C2664: 'void printMaze(char [][5])': cannot convert argument 1 from 'std::vector<std::vector<char,std::allocator<char>>,std::allocator<std::vector<char,std::allocator<char>>>>' to 'char [][5]'
-  C:\Users\nikol\OneDrive - Aarhus universitet\3. Semester\Algo og Data\DOA\DOA_handin3\Handin3\Exercise4\Exercise4.cpp(137,15):
-  No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
-  C:\Users\nikol\OneDrive - Aarhus universitet\3. Semester\Algo og Data\DOA\DOA_handin3\Handin3\Exercise4\Exercise4.cpp(114,6):
-  see declaration of 'printMaze'
-  C:\Users\nikol\OneDrive - Aarhus universitet\3. Semester\Algo og Data\DOA\DOA_handin3\Handin3\Exercise4\Exercise4.cpp(137,5):
-  while trying to match the argument list '(std::vector<std::vector<char,std::allocator<char>>,std::allocator<std::vector<char,std::allocator<char>>>>)'
-  
+  Exercise4.vcxproj -> C:\Users\nikol\OneDrive - Aarhus universitet\3. Semester\Algo og Data\DOA\DOA_handin3\Handin3\x64\Debug\Exercise4.exe

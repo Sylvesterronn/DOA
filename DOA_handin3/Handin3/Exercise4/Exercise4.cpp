@@ -111,15 +111,6 @@ bool solveMazeUtil(int row, int col, vector<vector<char>>& maze) {
     return foundPath;
 }
 
-void printMaze(char maze[ROWS][COLS]) {
-    for (int i = 0; i < ROWS; ++i) {
-        for (int j = 0; j < COLS; ++j) {
-            std::cout << maze[i][j] << ' ';
-        }
-        std::cout << '\n';
-    }
-}
-
 bool solveMaze(vector<vector<char>>& maze) {
     // Start the traversal from position (1, 1)
     return solveMazeUtil(1, 1, maze);
@@ -134,29 +125,46 @@ int main() {
         {'X','E','X','X','X'}
     };
 
-    printMaze(maze);
 
-    if (solveMaze(maze)) {
-        cout << "Path to exit exists!" << endl;
+    //Printing out the Maze... 
+    for (const auto& row : maze) {
+        for (char cell : row) {
+            cout << cell << " ";
+        }
+        cout << endl;
     }
-    else {
-        cout << "No path to exit!" << endl;
-    }
+        //Printing if there is an exit or not
+        if (solveMaze(maze)) {
+            cout << "Path to exit exists!" << endl;
+        }
+        else {
+            cout << "No path to exit!" << endl;
+        }
 
-    vector<vector<char>> maze1 = {
-        {'X','X','X','X','X'},
-        {'X',' ',' ',' ','X'},
-        {'X',' ','X',' ','X'},
-        {'X','X','X',' ','X'},
-        {'X','E','X','X','X'}
-    };
+        vector<vector<char>> maze1 = {
+            {'X','X','X','X','X'},
+            {'X',' ',' ',' ','X'},
+            {'X',' ','X',' ','X'},
+            {'X','X','X',' ','X'},
+            {'X','E','X','X','X'}
+        };
 
-    if (solveMaze(maze1)) {
-        cout << "Path to exit exists!" << endl;
-    }
-    else {
-        cout << "No path to exit!" << endl;
-    }
+        //Printing out the other Maze
+        for (const auto& row : maze1) {
+            for (char cell : row) {
+                cout << cell << " ";
+            }
+            cout << endl;
+        }
 
-    return 0;
+        //Printing if there is an exit or not
+        if (solveMaze(maze1)) {
+            cout << "Path to exit exists!" << endl;
+        }
+        else {
+            cout << "No path to exit!" << endl;
+        }
+
+        return 0;
+    
 }
