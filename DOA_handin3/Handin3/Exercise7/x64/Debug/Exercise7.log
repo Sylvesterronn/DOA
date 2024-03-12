@@ -1,1 +1,9 @@
-﻿  Exercise7.vcxproj -> C:\Users\nikol\OneDrive - Aarhus universitet\3. Semester\Algo og Data\DOA\DOA_handin3\Handin3\x64\Debug\Exercise7.exe
+﻿  Exercise7.cpp
+C:\Users\nikol\OneDrive - Aarhus universitet\3. Semester\Algo og Data\DOA\DOA_handin3\Handin3\Exercise7\quick_sort.h(100,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Exercise7.cpp')
+  C:\Users\nikol\OneDrive - Aarhus universitet\3. Semester\Algo og Data\DOA\DOA_handin3\Handin3\Exercise7\quick_sort.h(100,27):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\nikol\OneDrive - Aarhus universitet\3. Semester\Algo og Data\DOA\DOA_handin3\Handin3\Exercise7\Exercise7.cpp(21,2):
+  	see reference to function template instantiation 'void quickSort<int>(std::vector<int,std::allocator<int>> &)' being compiled
+  
+  Exercise7.vcxproj -> C:\Users\nikol\OneDrive - Aarhus universitet\3. Semester\Algo og Data\DOA\DOA_handin3\Handin3\x64\Debug\Exercise7.exe
