@@ -57,7 +57,7 @@ void permute(vector<AnyType>& a) {
 }
 
 int main() {
-	const int NUM_ITEMS = 10;
+	const int NUM_ITEMS = 5;
 
 	vector<int>a(NUM_ITEMS);
 	for (int i = 1; i < a.size(); ++i) {
